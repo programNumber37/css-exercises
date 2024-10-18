@@ -1,0 +1,25 @@
+.odd{
+    background-color: hsl(351, 100%, 86%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.odd.extra{
+    font-size: 40px;
+}
+
+#even{
+    color: blue;
+    font-size: 36px;
+}
+
+
+
+#four{
+    font-size: 24px;
+    background-color: rgb(51, 223, 51);
+
+}
+
+
+
