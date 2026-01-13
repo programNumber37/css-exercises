@@ -1,11 +1,9 @@
 /* Add CSS Styling */
-
-p{
-    background-color: lightpink;
-    font-family:  DejaVu Sans;
+.odd{
+    background-color: red;
 }
 
-div{
+#second{
     color: blue;
     font-size: 36px;
 }
@@ -16,5 +14,6 @@ div{
 
 .greendiv{
     background-color: green;
-    color: black;
+    font-size: 24px;
+    font-weight: bold;
 }
